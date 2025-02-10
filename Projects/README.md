@@ -4,19 +4,42 @@ The [Confidential Computing Consortium](https://confidentialcomputing.io) hosts 
 
 ## Index of Projects
 
-* [Certifier Framework For Confidential Computing ](#certifier-framework-for-confidential-computing)
-* [COCONUT-SVSM](#coconut-svsm)
-* [Enarx](#enarx)
-* [Gramine](#gramine)
-* [Islet](#islet)
-* [Keystone](#keystone)
-* [ManaTEE](#manatee)
-* [Occlum](#occlum)
-* [Open Enclave SDK](#open-enclave-sdk)
-* [spdm-rs](#spdm-rs)
-* [Veracruz](#veracruz)
-* [Veraison](#veraison)
-* [VirTEE](#virtee)
+- [Confidential Computing Consortium projects](#confidential-computing-consortium-projects)
+  - [Index of Projects](#index-of-projects)
+  - [Certifier Framework For Confidential Computing](#certifier-framework-for-confidential-computing)
+      - [Links](#links)
+  - [COCONUT-SVSM](#coconut-svsm)
+      - [Links](#links-1)
+  - [Enarx](#enarx)
+      - [Links](#links-2)
+      - [Webinars](#webinars)
+      - [Funding requests](#funding-requests)
+  - [Gramine](#gramine)
+      - [Links](#links-3)
+      - [Webinars](#webinars-1)
+  - [Islet](#islet)
+      - [Links](#links-4)
+  - [Keystone](#keystone)
+      - [Links](#links-5)
+      - [Webinars](#webinars-2)
+  - [ManaTEE](#manatee)
+    - [Links](#links-6)
+  - [Occlum](#occlum)
+      - [Links](#links-7)
+      - [Webinars](#webinars-3)
+  - [Open Enclave SDK](#open-enclave-sdk)
+      - [Links](#links-8)
+      - [Presentations](#presentations)
+      - [Webinars](#webinars-4)
+  - [spdm-rs](#spdm-rs)
+      - [Links](#links-9)
+  - [Veracruz](#veracruz)
+      - [Links](#links-10)
+      - [Webinars](#webinars-5)
+  - [Veraison](#veraison)
+      - [Links](#links-11)
+  - [VirTEE](#virtee)
+      - [Links](#links-12)
 
 ---
 
@@ -38,6 +61,8 @@ The Certifier API greatly simplifies and unifies programming and operations supp
 * [Charter](./Certifier_Framework/Certifier_Framework_for_Confidential_Computing_Technical_Charter_2-5-2024.pdf)
 
 ## COCONUT-SVSM
+
+<img height="100" src="https://github.com/confidential-computing/artwork/raw/main/coconut_svsm/logo5.svg">
 
 The COCONUT-SVSM is an implementation of a Secure VM Service Module for confidential
 computing virtual machines (CVMs). It runs within the TCB of the CVM and aims to support three
